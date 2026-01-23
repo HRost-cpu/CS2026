@@ -19,11 +19,11 @@ Comparative Model Analysis
    | Response Time | 30 min to several hours | 1-2 minutes |
 
 2. Architectural Decisions
-📊 Aggregation (Data Aggregator)
+ Aggregation (Data Aggregator)
 The system utilizes New Relic Infrastructure to collect telemetry from workstations.
  * Cost Optimization: Leverages the Free Tier (100 GB/month), allowing for the monitoring of up to 30-40 nodes at zero cost.
  * Filtering: NRQL queries isolate only anomalies: P2P clients, miners, emulators, or critical CPU load.
-🧠 Analytics (Agent Analyst)
+ Analytics (Agent Analyst)
 Gemini AI serves as a first-line analyst. The model does not merely record a process launch but performs a threat assessment:
  * Identification of potential data leaks.
  * Detection of non-target use of corporate resources.
