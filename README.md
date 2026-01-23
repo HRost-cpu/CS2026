@@ -35,5 +35,6 @@ Gemini AI serves as a first-line analyst. The model does not merely record a pro
  * Reporting Quality: The administrator receives a meaningful executive summary instead of a raw technical log.
  * Scalability: Rules can be quickly adapted to new threat types by modifying the AI prompt.
 
-Documentation prepared for a professional SOC developer portfolio.
 <img width="1408" height="768" alt="2767" src="https://github.com/user-attachments/assets/60b53508-7602-4131-91d5-f5746ef87268" />
+
+Documentation prepared for a professional SOC developer portfolio.
