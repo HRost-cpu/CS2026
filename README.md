@@ -1,4 +1,4 @@
-# Case Study: AI-Driven Infrastructure Security Audit
+# Project: AI-Driven SOC Analyst (Cyber-Auditor)
 
 Date: January 22, 2026
 Author: Rostyslav Huba
