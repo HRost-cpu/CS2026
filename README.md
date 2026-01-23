@@ -1,7 +1,7 @@
 # Case Study: AI-Driven Infrastructure Security Audit
 
 Date: January 22, 2026
-Author: Rostyslav Guba
+Author: Rostyslav Huba
 
 Stack: New Relic (NerdGraph), Google Gemini AI, Google Apps Script
 
@@ -12,10 +12,10 @@ This solution implements a direct analytics model where Artificial Intelligence 
 Comparative Model Analysis
 
    | Stage | Traditional Model (Support/Jira) | AI-Driven SOC (Current Project) |
-|---|---|---|
-| Data Collection | Infrastructure logs and metrics | Aggregation via New Relic API |
-| Processing | Task/Ticket creation | Direct context transfer to LLM |
-| Analysis | Manual log review by admin | AI Verdict (threat explanation) |
+   |---|---|---|
+   | Data Collection | Infrastructure logs and metrics | Aggregation via New Relic API |
+   | Processing | Task/Ticket creation | Direct context transfer to LLM |
+   | Analysis | Manual log review by admin | AI Verdict (threat explanation) |
    | Response Time | 30 min to several hours | 1-2 minutes |
 
 2. Architectural Decisions
