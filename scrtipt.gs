@@ -1,5 +1,5 @@
 /**
- * PROJECT: AI-DRIVEN SOC ANALYST (CYBER-AUDITOR)
+ * Project: AI-Driven SOC Analyst (Cyber-Auditor)
  * Версія: 3.0 (Production Release)
  * Автор: Ростислав Губа
  * * ОПИС:
