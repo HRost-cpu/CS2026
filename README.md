@@ -3,7 +3,7 @@
 Date: January 22, 2026
 Author: Rostyslav Huba
 
-Stack: New Relic (NerdGraph), Google Gemini AI, Google Apps Script
+Stack: New Relic (NerdGraph), Google Gemini AI, Google Apps Script.
 
 1. Project Concept (The Vertical Model)
 This solution implements a direct analytics model where Artificial Intelligence acts as an intellectual layer between the monitoring system and the administrator. The primary goal is to eliminate the bureaucratic delays inherent in traditional support systems.
