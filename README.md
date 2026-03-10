@@ -5,6 +5,8 @@ Author: Rostyslav Huba
 
 Stack: New Relic (NerdGraph), Google Gemini AI, Google Apps Script.
 
+[![PSScriptAnalyzer](https://github.com/HRost-cpu/CS2026/actions/workflows/powershell.yml/badge.svg?branch=main)](https://github.com/HRost-cpu/CS2026/actions/workflows/powershell.yml)
+
 1. Project Concept (The Vertical Model)
 This solution implements a direct analytics model where Artificial Intelligence acts as an intellectual layer between the monitoring system and the administrator. The primary goal is to eliminate the bureaucratic delays inherent in traditional support systems.
 <img width="1408" height="768" alt="2765" src="https://github.com/user-attachments/assets/de11060c-d562-4c2b-8f28-ae665e52a319" />
